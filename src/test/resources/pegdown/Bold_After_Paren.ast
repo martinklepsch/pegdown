@@ -1,0 +1,6 @@
+RootNode [0-30]
+  ParaNode [0-30]
+    SuperNode [0-30]
+      StrongEmphSuperNode [0-6]
+        TextNode [0-6] 'Update'
+      TextNode [6-34] ' this wont be bold'
